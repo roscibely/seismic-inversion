@@ -9,13 +9,13 @@
 
 [SeisLab for Matlab](https://www.mathworks.com/matlabcentral/fileexchange/53109-seislab-3-02)
 
- @MastersThesis{rego2015,
-      title={Inversão Sísmica para Impedância Acústica: Estudo e Aplicação do Método em Dados Sintéticos},
-      author={Rego, R. C. B},
-      school={Federal Rural University of Semi-Arid Region},
-      type={Bachelor's Thesis},
-      year={2015}
- }
+   @MastersThesis{rego2015,
+        title={Inversão Sísmica para Impedância Acústica: Estudo e Aplicação do Método em Dados Sintéticos},
+        author={Rego, R. C. B},
+        school={Federal Rural University of Semi-Arid Region},
+        type={Bachelor's Thesis},
+        year={2015}
+    }
  
 [Bachelor's Thesis file](https://github.com/roscibely/seismic-inversion/blob/main/TCC.pdf)
 
