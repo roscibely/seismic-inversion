@@ -1,5 +1,7 @@
 # Seismic inversion
 
+![Figure](https://github.com/roscibely/seismic-inversion/blob/main/abstract.png)
+
 ## Package required:
 [CREWES](https://www.crewes.org/ResearchLinks/FreeSoftware/)
 
