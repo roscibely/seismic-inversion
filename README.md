@@ -9,6 +9,7 @@
 
 [SeisLab for Matlab](https://www.mathworks.com/matlabcentral/fileexchange/53109-seislab-3-02)
 
+## File
    @MastersThesis{rego2015,
         title={Inversão Sísmica para Impedância Acústica: Estudo e Aplicação do Método em Dados Sintéticos},
         author={Rego, R. C. B},
